@@ -7,3 +7,4 @@ script 6 creates a directory named holberton in the /tmp directory
 script 7 moves file betty from /tmp to /tmp/holberton
 script 8 deletes the file betty
 script 9 deletes the directory holberton
+script 11 displays in long format all files in current, parent and boot directory including hidden files
