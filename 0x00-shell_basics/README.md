@@ -11,4 +11,5 @@ script 9 deletes the directory holberton
 script 10 changes current working directory to previous one
 script 11 displays in long format all files in current, parent and boot directory including hidden files
 script 12 determines file type of file /tmp/iamfile
-script 12 create symbolic link to /bin/ls named __ls__
+script 13 create symbolic link to /bin/ls named __ls__
+script 14 copies all html files into the parent directory from the current working directory
