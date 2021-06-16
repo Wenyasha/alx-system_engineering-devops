@@ -6,3 +6,4 @@ script 5 display current directory contents with user and group IDs displayed nu
 script 6 creates a directory named holberton in the /tmp directory
 script 7 moves file betty from /tmp to /tmp/holberton
 script 8 deletes the file betty
+script 9 deletes the directory holberton
